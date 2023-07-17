@@ -22,8 +22,4 @@ I´m a passionate learner that loves to dig in to new technics to further develo
 
 Contact me at
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)](https://www.linkedin.com/in/leylanilsson/)
-
-
-### My github Stats 🤖
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leylanilsson&show_icons=true&theme=transparent)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)](https://www.linkedin.com/in/leylanilsson/) 
