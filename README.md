@@ -6,6 +6,24 @@ I´m a 3rd year student pursuing a Bachelor´s in Business & Economics 🎓
 
 I´m a passionate learner that loves to dig in to new technics to further developen my data analystics skills 📊
 
+*Hobbies*
+- Trading
+- Programing
+- Data visualizations
+
+
+*Skills*     
+![Microsoft Excel Badge](https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoftexcel&logoColor=fff&style=flat)
+![Google Sheets Badge](https://img.shields.io/badge/Google%20Sheets-34A853?logo=googlesheets&logoColor=fff&style=flat)
+![Static Badge](https://img.shields.io/badge/Data_visualization-lightblue)
+![Static Badge](https://img.shields.io/badge/Trend_analysis-pink)
+
+
+
+Contact me at
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)](https://www.linkedin.com/in/leylanilsson/)
+
 
 ### My github Stats 🤖
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leylanilsson&show_icons=true&theme=transparent)
