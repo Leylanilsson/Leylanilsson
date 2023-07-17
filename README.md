@@ -1,7 +1,3 @@
-# Economics student 
+## Hello and welcome to my page!
 
-## Skills; 
-Excel, Data visualization
-
-## Contact 
-Linkedin @ Leylanilsson
+I´m Leyla and are currently studying towards my Bachelor of Science in Business and Economics.
