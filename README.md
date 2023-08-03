@@ -15,10 +15,10 @@ I´m a passionate learner that loves to dig in to new technics to further develo
 *Skills*     
 ![Microsoft Excel Badge](https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoftexcel&logoColor=fff&style=flat)
 ![Google Sheets Badge](https://img.shields.io/badge/Google%20Sheets-34A853?logo=googlesheets&logoColor=fff&style=flat)
-![HTML Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![Css Badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Data_visualization-lightblue)
-![Static Badge](https://img.shields.io/badge/Trend_analysis-pink)
+![HTML Badge](https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white)
+![Css Badge](https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Data_visualization-lightblue&color=fff)
+![Static Badge](https://img.shields.io/badge/Trend_analysis-pink&color=fff)
 
 
 
