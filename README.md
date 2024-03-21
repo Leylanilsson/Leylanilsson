@@ -2,8 +2,6 @@
 
 ### Hello and welcome to my page!
 
-I´m a 3rd year student pursuing a Bachelor´s in Business & Economics 🎓
-
 I´m a passionate learner that loves to dig in to new technics to further developen my data analystics skills 📊
 
 *Hobbies*
