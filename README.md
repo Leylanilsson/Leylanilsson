@@ -2,7 +2,7 @@
 
 ### Hello and welcome to my page!
 
-I´m a passionate learner that loves to dig in to new technics to further developen my data analystics skills 📊
+I´m a passionate learner that loves to dig in to new technics to further developen my skills 📊
 
 *Hobbies*
 - Trading
@@ -11,14 +11,12 @@ I´m a passionate learner that loves to dig in to new technics to further develo
 
 
 *Skills*     
-![Microsoft Excel Badge](https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoftexcel&logoColor=fff&style=flat)
-![Google Sheets Badge](https://img.shields.io/badge/Google%20Sheets-34A853?logo=googlesheets&logoColor=fff&style=flat)
-![HTML Badge](https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white)
-![Css Badge](https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Data_visualization-lightblue&color=fff)
-![Static Badge](https://img.shields.io/badge/Trend_analysis-pink&color=fff)
-
-
+![Microsoft excel](https://img.shields.io/badge/Microsoft%20excel-darkblue?style=flat&logo=microsoftexcel&logoColor=white)
+![Google sheets](https://img.shields.io/badge/Google%20sheets-darkblue?style=flat&logo=googlesheets&logoColor=white)
+![Html](https://img.shields.io/badge/Html-blue?style=flat&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-blue?style=flat&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white)
+![Stata](https://img.shields.io/badge/Stata-lightblue?style=flat&logoColor=white)
 
 
 Contact me at
