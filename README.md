@@ -2,12 +2,7 @@
 
 ### Hello and welcome to my page!
 
-I´m a passionate learner that loves to dig in to new technics to further developen my skills 📊
-
-*Hobbies*
-- Trading
-- Programing
-- Data visualizations
+I´m a Economist with a strong intrest in financial analysis 📊
 
 
 *Skills*     
